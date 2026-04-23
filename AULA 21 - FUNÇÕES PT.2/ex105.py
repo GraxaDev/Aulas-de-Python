@@ -20,4 +20,3 @@ def notas(*n, sit=False):
 
 resp = notas(5.5, 4.5, 4.5, sit=True)
 print(resp)
-help(notas)
